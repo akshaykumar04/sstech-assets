@@ -1,0 +1,246 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true,
+      "showSearch": true,
+      "showLogo": true
+    },
+    {
+      "layout": "bannerImage",
+      "design": "default",
+      "showBackGround": true,
+      "radius": 2.0,
+      "items": [
+        {
+          "image": "https://cdn.shopify.com/s/files/1/0552/7139/1391/files/Screenshot_2021-08-11_at_1.41.23_AM.png?v=1628626307",
+          "padding": 5.0
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": false,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "radius": 2.0,
+      "items": [
+        {
+          "tab": "category",
+          "image": "https://cdn.shopify.com/s/files/1/0552/7139/1391/files/Screenshot_2021-08-11_at_12.54.24_AM.webp?v=1628623698",
+          "padding": 5.0
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "url": "https://www.plantgear.com/pages/about-us",
+          "image": "https://cdn.shopify.com/s/files/1/0552/7139/1391/files/Screenshot_2021-08-10_at_8.37.13_PM.webp?v=1628620238",
+          "padding": 5.0
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MjEwNjEyMDM1MQ==",
+          "name": "T-SHIRTS",
+          "image": "https://cdn.shopify.com/s/files/1/0552/7139/1391/files/Screenshot_2021-08-11_at_12.12.15_AM_5d0d297b-33ac-49cc-b3e2-b0d24f4eeb07.webp?v=1628627136",
+          "padding": 20.0,
+          "bannerUrl": "https://raw.githubusercontent.com/akshaykumar04/sstech-assets/main/plantgear/Category-%20App-%20Tshirts.jpg"
+        },
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MjEwNjE1MzExOQ==",
+          "name": "PREMIUM COLLECTIONS",
+          "image": "https://cdn.shopify.com/s/files/1/0552/7139/1391/files/Screenshot_2021-08-11_at_12.12.51_AM_cf02c764-ac2d-4b58-a64c-6b3a6b381557.webp?v=1628973496",
+          "padding": 20.0,
+          "bannerUrl": "https://raw.githubusercontent.com/akshaykumar04/sstech-assets/main/plantgear/Category-%20App-%20Premium.jpg"
+        }
+      ]
+    },
+    {
+      "name": "T-Shirts",
+      "layout": "threeColumn",
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MjEwNjEyMDM1MQ==",
+      "isSnapping": true,
+      "bannerUrl": "https://raw.githubusercontent.com/akshaykumar04/sstech-assets/main/plantgear/Category-%20App-%20Tshirts.jpg"
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MjEwNjE1MzExOQ==",
+          "name": "PREMIUM COLLECTIONS",
+          "image": "https://cdn.shopify.com/s/files/1/0552/7139/1391/files/Screenshot_2021-08-11_at_12.54.03_AM.webp?v=1628623698",
+          "padding": 5.0,
+          "bannerUrl": "https://raw.githubusercontent.com/akshaykumar04/sstech-assets/main/plantgear/Category-%20App-%20Premium.jpg"
+        }
+      ]
+    },
+    {
+      "name": "HOODIES/JACKETS ",
+      "layout": "threeColumn",
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MTkzNTczMzkxOQ==",
+      "isSnapping": true,
+      "bannerUrl": "https://raw.githubusercontent.com/akshaykumar04/sstech-assets/main/plantgear/Category-%20App-%20Hoodies-3.jpg"
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MjEwNjM0OTcyNw==",
+          "name": "LOCAL SPECIFIC",
+          "image": "https://cdn.shopify.com/s/files/1/0552/7139/1391/files/Screenshot_2021-08-10_at_7.01.51_PM.webp?v=1628604637",
+          "padding": 5.0,
+          "bannerUrl": "https://raw.githubusercontent.com/akshaykumar04/sstech-assets/main/plantgear/Category-%20App-%20Local%20Specific.jpg"
+        }
+      ]
+    },
+
+    {
+      "name": "HATS ",
+      "image": "",
+      "layout": "threeColumn",
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MTkzNDE2MTA1NQ==",
+      "isSnapping": true,
+      "bannerUrl": "https://raw.githubusercontent.com/akshaykumar04/sstech-assets/main/plantgear/Category-%20App-%20Hats-2.jpg"
+    },
+
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "image": "https://cdn.shopify.com/s/files/1/0552/7139/1391/files/Screenshot_2021-08-11_at_12.15.01_AM.webp?v=1628621275",
+          "padding": 5.0,
+          "tab": "category"
+        }
+      ]
+    },
+
+    {
+      "name": "BESTSELLERS",
+      "image": "",
+      "layout": "fourColumn",
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI2MjEwNjI1MTQyMw==",
+      "isSnapping": true,
+      "bannerUrl": "https://raw.githubusercontent.com/akshaykumar04/sstech-assets/main/plantgear/Category-%20App-%20Best%20Seller.jpg"
+    },
+    
+    {
+      "name": "Support Gear",
+      "image": "",
+      "layout": "staggered",
+      "category": "Z2lkOi8vc2hvcGlmeS9Db2xsZWN0aW9uLzI3MTkzMDkxNzAyMw==",
+      "isSnapping": true,
+      "bannerUrl": "https://raw.githubusercontent.com/akshaykumar04/sstech-assets/main/plantgear/Category-%20App-%20Support%20Gear-2.jpg"
+    },
+
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "autoPlay": true,
+      "showNumber": false,
+      "design": "default",
+      "showBackGround": true,
+      "showDots": false,
+      "showNumbers": false,
+      "radius": 2.0,
+      "items": [
+        {
+        
+          "image": "https://cdn.shopify.com/s/files/1/0552/7139/1391/files/Screenshot_2021-08-11_at_12.15.50_AM.webp?v=1628621275",
+          "padding": 5.0
+        },
+        {
+          
+          "image": "https://cdn.shopify.com/s/files/1/0552/7139/1391/files/Screenshot_2021-08-11_at_12.15.54_AM.webp?v=1628621275",
+          "padding": 5.0
+        },
+        {
+        
+          "image": "https://cdn.shopify.com/s/files/1/0552/7139/1391/files/Screenshot_2021-08-11_at_12.15.59_AM.webp?v=1628621275",
+          "padding": 5.0
+        }
+      ]
+    }
+  ],
+  "Setting": {
+    "MainColor": "##8843c5",
+    "ProductListLayout": "list",
+    "StickyHeader": false
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "custom",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ],
+  "searchSuggestion": [
+    "tshirts",
+    "man",
+    "women",
+    "premium collection"
+  
+  ],
+  "OnBoarding": {
+    "data": [
+      {
+        "title": "Welcome to FluxStore",
+        "image": "assets/images/fogg-delivery-1.png",
+        "desc": "Plantgear is on the way to serve you. ",
+        "background": "#FFF3F2"
+      },
+      {
+        "title": "Connect Surrounding World",
+        "image": "assets/images/fogg-uploading-1.png",
+        "desc": "See all things happening around you just by a click in your phone. Fast, convenient and clean.",
+        "background": "#F2FFFC"
+      },
+      {
+        "title": "Let's Get Started",
+        "image": "fogg-order-completed.png",
+        "desc": "Waiting no more, let's see what we get!",
+        "background": "#F9F2FF"
+      }
+    ]
+  }
+}
